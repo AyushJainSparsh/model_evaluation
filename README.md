@@ -56,4 +56,4 @@ Contributions are welcome! Please fork the repository and open a pull request wi
 
 ## LICENSE
 
-This project is licensed under the MIT License - [see the LICENSE file](github.com/ayushjainsparsh/model%20evaluation) for details.
+This project is licensed under the MIT License - [see the LICENSE file](https://github.com/AyushJainSparsh/model_evaluation/blob/main/LICENSE) for details.
