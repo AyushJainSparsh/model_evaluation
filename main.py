@@ -1,8 +1,8 @@
 import streamlit as st 
 from streamlit_option_menu import option_menu
-import models
+import home
 
-class main :
+class Main :
     def __init__(self):
         self.apps = []
     def add_apps(self, title ,function):
@@ -15,10 +15,10 @@ class main :
             app = option_menu(
                 menu_title='ML MODEL SELECTION',
                 options=['ML MODELS'] , 
-                default_index=0 ,
+                default_index=0,
                 menu_icon= 'robot' , 
                 icons = ['motherboard'])
             
-        if app == 'ML MODEL':
-            models.app()
+        if app == 'ML MODELS':
+            home.app()
     run()
