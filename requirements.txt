@@ -2,3 +2,5 @@ pandas
 numpy
 scikit-learn
 catboost
+streamlit
+streamlit_option_menu
