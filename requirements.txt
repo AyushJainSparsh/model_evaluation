@@ -1,5 +1,4 @@
 pandas 
-numpy
 scikit-learn
 catboost
 streamlit
